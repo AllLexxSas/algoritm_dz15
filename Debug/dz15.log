@@ -1,0 +1,6 @@
+﻿  dz15.c
+e:\gb\algoritm\dz15\dz15\dz15\dz15.c(41): warning C4013: calloc: нет определения; предполагается "extern" с возвратом типа "int"
+e:\gb\algoritm\dz15\dz15\dz15\dz15.c(45): warning C4018: <: несоответствие типов со знаком и без знака
+e:\gb\algoritm\dz15\dz15\dz15\dz15.c(55): warning C4047: return: "int" отличается по уровням косвенного обращения от "int *"
+e:\gb\algoritm\dz15\dz15\dz15\dz15.c(60): warning C4715: exch: значение возвращается не при всех путях выполнения
+  dz15.vcxproj -> E:\gb\algoritm\dz15\dz15\Debug\dz15.exe
